@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GokulMatheswaran
 - 👀 I’m interested in Software Developing and Testing.
-- 🌱 I’m currently learning Java,Python.
+- 🌱 I’m learnt Java,Python.
 - 💞️ I’m looking to collaborate on C,C++,HTML & CSS
 - 📫 How to reach me gokulmatheswaran.blogspot.com
 
